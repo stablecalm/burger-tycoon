@@ -1,1 +1,1 @@
-# burger_tycoon
+# burger-tycoon
